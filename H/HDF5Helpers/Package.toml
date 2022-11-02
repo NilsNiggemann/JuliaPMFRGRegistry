@@ -1,0 +1,3 @@
+name = "HDF5Helpers"
+uuid = "2867bddc-101e-43c9-836d-7ce2d0afa337"
+repo = "git@gitlabph.physik.fu-berlin.de:niggeni/HDF5Helpers.jl.git"
