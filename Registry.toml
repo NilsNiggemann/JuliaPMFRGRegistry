@@ -6,6 +6,7 @@ description = "Julia FRG registry"
 [packages]
 053fb7f8-31b7-4f68-aef8-4452b415dd8c = { name = "SpinFRGLattices", path = "S/SpinFRGLattices" }
 0e1bda0b-f6c0-498b-8522-61e6152bcfb4 = { name = "FRGLatticePlotting", path = "F/FRGLatticePlotting" }
+12f9d3e0-c7ac-4982-a146-f6f67cbda763 = { name = "PMFRGEvaluation", path = "P/PMFRGEvaluation" }
 2867bddc-101e-43c9-836d-7ce2d0afa337 = { name = "HDF5Helpers", path = "H/HDF5Helpers" }
 37d616f8-0bcb-4e18-9a76-f5d18f52650d = { name = "PMFRG", path = "P/PMFRG" }
 a44b592b-45f7-4b02-a4df-e53b23f0d903 = { name = "FRGLatticeEvaluation", path = "F/FRGLatticeEvaluation" }
