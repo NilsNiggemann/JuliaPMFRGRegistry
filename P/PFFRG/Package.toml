@@ -1,0 +1,3 @@
+name = "PFFRG"
+uuid = "b5390414-b2a3-41bc-a8fb-ec6971fc6e70"
+repo = "git@gitlabph.physik.fu-berlin.de:julia-frg/PFFRG.jl.git"
