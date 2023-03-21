@@ -4,3 +4,6 @@ SLEEFPirates = "476501e8-09a2-5ece-8869-fb82de89a1fa"
 SpinFRGLattices = "053fb7f8-31b7-4f68-aef8-4452b415dd8c"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+["0.1.5-0"]
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
