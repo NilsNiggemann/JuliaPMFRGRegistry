@@ -9,5 +9,5 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 SLEEFPirates = "476501e8-09a2-5ece-8869-fb82de89a1fa"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
-["2.0.2-2"]
+["2.0.2"]
 Plotly = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
