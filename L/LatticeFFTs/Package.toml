@@ -1,0 +1,3 @@
+name = "LatticeFFTs"
+uuid = "83e9f648-131d-4a3c-a1de-d155351cd207"
+repo = "git@gitlabph.physik.fu-berlin.de:niggeni/LatticeFFTs.jl"

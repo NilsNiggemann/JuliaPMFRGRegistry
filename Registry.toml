@@ -10,6 +10,7 @@ description = "Julia FRG registry"
 2867bddc-101e-43c9-836d-7ce2d0afa337 = { name = "HDF5Helpers", path = "H/HDF5Helpers" }
 37d616f8-0bcb-4e18-9a76-f5d18f52650d = { name = "PMFRG", path = "P/PMFRG" }
 769ed66a-a1e3-4c16-885f-a5b16fb973c2 = { name = "MakieHelpers", path = "M/MakieHelpers" }
+83e9f648-131d-4a3c-a1de-d155351cd207 = { name = "LatticeFFTs", path = "L/LatticeFFTs" }
 a44b592b-45f7-4b02-a4df-e53b23f0d903 = { name = "FRGLatticeEvaluation", path = "F/FRGLatticeEvaluation" }
 b4cab7cf-adc3-420e-a848-9bce351d8df1 = { name = "PFFRGEvaluation", path = "P/PFFRGEvaluation" }
 b5390414-b2a3-41bc-a8fb-ec6971fc6e70 = { name = "PFFRG", path = "P/PFFRG" }
