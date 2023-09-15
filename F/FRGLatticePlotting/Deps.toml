@@ -17,6 +17,8 @@ Plotly = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
 [3]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
-GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
 MakieHelpers = "769ed66a-a1e3-4c16-885f-a5b16fb973c2"
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
+["3-3.0.4"]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
