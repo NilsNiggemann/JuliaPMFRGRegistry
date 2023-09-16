@@ -22,3 +22,6 @@ PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
 ["3-3.0.4"]
 GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+
+["3.0.6-3"]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
