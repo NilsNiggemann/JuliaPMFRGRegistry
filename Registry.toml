@@ -1,6 +1,6 @@
 name = "JuliaPMFRG"
 uuid = "19cab0c4-4f86-4eef-aea1-cf3716c4fad4"
-repo = "https://gitlabph.physik.fu-berlin.de/julia-frg/JuliaFRGRegistry.git"
+repo = "https://github.com/NilsNiggemann/JuliaPMFRGRegistry.git"
 description = "Julia FRG registry"
 
 [packages]
